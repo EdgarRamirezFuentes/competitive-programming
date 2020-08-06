@@ -1,0 +1,39 @@
+Movement:
+k - up
+l - right
+j - down
+h - left
+w - points to the beginning of the next word.
+b - points to the beginning of the previous word.
+e - point to the end of the next word.
+gg - Goes to the beginning of the file.
+G - Goes to the end of the file.
+
+Text:
+i - starts insert mode where the cursor is pointing.
+a - starts insert mode in front of the cursor position.
+A . starts insert mode in the end of the line.
+x - deletes the character where the cursor is pointing.
+s - deletes the character where the cursor is pointing and stars the insert mode right there.
+dw - deletes the word
+u- undo
+ctrl + r - redo
+d$ - deletes the whole line in front of the cursor.
+de -deletes the text in front of the cursor
+db - deletes the text behind the cursor.
+dd - deletes the whole line and saves it in the clipboard.
+p - pastes the text that is in the clipboard in the next line where the cursor is pointing.
+P - pastes the text that is in the clipboard in the previous line where the cursos is pointing.
+r - replaces the character where the cursor is pointing.
+cw - deletes the word (needs to be pointing a the beginning of the word) and starts insert mode
+ciw - deletes the word and starts insert mode
+
+
+Exit:
+:q - exit
+:q! exit without saving
+
+Save file:
+ZZ - exit and save
+:wq - exit and save
+:w - save file
