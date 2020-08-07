@@ -14,7 +14,7 @@ Every solved problem  will have the link of the problem if you want to solve it 
 ## Author  <a name = "author"></a>
  - Ramírez Fuentes Edgar Alejandro  
  Codeforces profile: [EdgarRamirezFuentes](https://codeforces.com/profile/EdgarRamirezFuentes)
- 
+
 ## Solved problems  <a name = "problems"></a>
 - [Young physicist](https://codeforces.com/problemset/problem/69/A)
 - [Beautiful matrix](https://codeforces.com/problemset/problem/263/A)
@@ -40,4 +40,5 @@ Every solved problem  will have the link of the problem if you want to solve it 
 - [Honest coach](https://codeforces.com/contest/1360/problem/B)
 - [Minimal square](https://codeforces.com/contest/1360/problem/A)
 - [Display the number](https://codeforces.com/contest/1295/problem/A)
+- [Beautiful year](https://codeforces.com/problemset/problem/271/A)
 
