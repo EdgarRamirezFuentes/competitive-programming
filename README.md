@@ -41,4 +41,4 @@ Every solved problem  will have the link of the problem if you want to solve it 
 - [Minimal square](https://codeforces.com/contest/1360/problem/A)
 - [Display the number](https://codeforces.com/contest/1295/problem/A)
 - [Beautiful year](https://codeforces.com/problemset/problem/271/A)
-
+- [Lights out](https://codeforces.com/problemset/problem/275/A)
