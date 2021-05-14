@@ -4,16 +4,23 @@
 
 - [About](#about)
 - [Author](#author)
-- [Solved problems](./code)
+- [Problem solutions](#solutions)
 
 ## About <a name = "about"></a>
 
-I use this repository to save the answer to competitive programming problems on Codeforces, OmegaUp, Leetcode, HackerRank or any other online judges.
+I use this repository to store the solution of competitive programming problems and programming challenges on online judges.
+
+
+## Problem solutions <a name = "solutions"></a>
+- [Leetcode](./Leetcode)
+- [CodeForces](./CodeForces) (In progress)
+- [HackerRank](./HackerRank) (In progress)
+- [UVa Online Judge](./UVa_online_judge) (In progress)
 
 ## Author  <a name = "author"></a>
  Ramírez Fuentes Edgar Alejandro  
- - Codeforces user [EdgarRamirezFuentes](https://codeforces.com/profile/EdgarRamirezFuentes)
- - LeetCode user [EdgarRamirezFuentes](https://leetcode.com/EdgarRamirezFuentes/)
- - HackerRank user [EdgarRamirezF](https://www.hackerrank.com/EdgarRamirezF)
- - OmegaUp user EdgarRamirezF
+ - Codeforces: [EdgarRamirezFuentes](https://codeforces.com/profile/EdgarRamirezFuentes)
+ - LeetCode: [EdgarRamirezFuentes](https://leetcode.com/EdgarRamirezFuentes/)
+ - HackerRank: [EdgarRamirezF](https://www.hackerrank.com/EdgarRamirezF)
+ - OmegaUp: EdgarRamirezF
 
