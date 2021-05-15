@@ -15,7 +15,7 @@ I use this repository to store the solution of competitive programming problems 
 - [Leetcode](./LeetCode)
 - [CodeForces](./CodeForces)
 - [HackerRank](./HackerRank) (In progress)
-- [UVa Online Judge](./UVa_online_judge) (In progress)
+- [UVa Online Judge](./UVa_online_judge)
 
 ## Author  <a name = "author"></a>
  Ramírez Fuentes Edgar Alejandro  
