@@ -12,8 +12,8 @@ I use this repository to store the solution of competitive programming problems 
 
 
 ## Problem solutions <a name = "solutions"></a>
-- [Leetcode](./Leetcode)
-- [CodeForces](./CodeForces) (In progress)
+- [Leetcode](./LeetCode)
+- [CodeForces](./CodeForces)
 - [HackerRank](./HackerRank) (In progress)
 - [UVa Online Judge](./UVa_online_judge) (In progress)
 

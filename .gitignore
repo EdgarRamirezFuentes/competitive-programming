@@ -6,6 +6,7 @@
 ### C++ ###
 # Prerequisites
 *.d
+*.in
 
 # Compiled Object files
 *.slo
